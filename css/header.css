@@ -6,7 +6,7 @@
 /* left section */
 /*----------------------------------------------*/
 .left_section{
-    background-image: url(/images/table_chair_lamp.jpg);
+    background-image: url(../images/table_chair_lamp.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
