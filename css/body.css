@@ -10,11 +10,11 @@
     background-position: center;
     background-size: cover;
 }
-.stays_image{ border-top-left-radius: 3em; background-image: url(/images/stays.jpg); }
+.stays_image{ border-top-left-radius: 3em; background-image: url(../images/stays.jpg); }
 
-.experience_image{ border-radius: 1em; background-image: url(/images/exp.jpg); -webkit-border-radius: 1em; -moz-border-radius: 1em; -ms-border-radius: 1em; -o-border-radius: 1em; }
+.experience_image{ border-radius: 1em; background-image: url(../images/exp.jpg); -webkit-border-radius: 1em; -moz-border-radius: 1em; -ms-border-radius: 1em; -o-border-radius: 1em; }
 
-.adventure_image{ border-top-right-radius: 3em; background-image: url(/images/adventure.jpg); }
+.adventure_image{ border-top-right-radius: 3em; background-image: url(../images/adventure.jpg); }
 
 .explore_subtitles{ 
     position: absolute;
