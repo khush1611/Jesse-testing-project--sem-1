@@ -1,0 +1,40 @@
+/*header*/
+.grid_header{
+    display: grid;
+    grid-template-columns: 1.7fr 2fr;
+   /* gap: .4em;*/
+}
+
+/*form*/
+.grid_form{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1em;
+}
+
+/*explore*/
+.grid_explore{
+    display: grid;
+    grid-template-columns: .9fr .9fr .9fr;
+    gap: 3em;
+}
+/*weekend*/
+.grid_weekend{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 3em;
+}
+.grid_rating_star{
+    display: grid;
+    grid-template-columns: .1fr 1fr;
+}
+/*places*/
+.grid_places{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+/*footer*/
+.grid_footer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
